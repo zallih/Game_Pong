@@ -26,7 +26,7 @@ Depois de colher o sucesso com as máquinas arcade, a Atari decidiu, em 1974, la
   <img width="200" alt="QuebraDeLinha" src="https://media.discordapp.net/attachments/783761333358166056/875852044928425984/divider-2461548_640.png">
   </p>
   
-  <img align="right" alt="zallih" width="120" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png"> ᶜʳᵉᵈᶦᵗᵒˢ
+  <img align="right" alt="zallih" width="120" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png"> 
 
-  Veja mais em: <a href ="https://www.techtudo.com.br/noticias/noticia/2016/03/conheca-pong-o-primeiro-videogame-lucrativo-da-historia.html">TechTudo</a>
+  Veja mais em: <a href ="https://www.techtudo.com.br/noticias/noticia/2016/03/conheca-pong-o-primeiro-videogame-lucrativo-da-historia.html">TechTudo</a> ᶜʳᵉᵈᶦᵗᵒˢ
 </div>
