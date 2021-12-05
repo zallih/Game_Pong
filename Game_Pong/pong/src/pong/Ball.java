@@ -35,11 +35,13 @@ public class Ball {
 			if(y >= Game.HEIGHT)
 			{
 				//Ponto do inimigo.
+				Game.pontosEnemy++;
 				System.out.println("Ponto do inimigo!");
 				new Game();
 				return;
 			}else if(y < 0) {
 				//Ponto do jogador.
+				Game.pontosPlayer++;
 				System.out.println("Ponto nosso! YAYY!");
 				new Game();
 				return;
